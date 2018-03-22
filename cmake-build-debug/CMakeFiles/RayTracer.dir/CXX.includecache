@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wodzu/Projects/CLionProjects/RayTracer/main.cpp
+iostream
+-
+OpenGL/gl.h
+-
+GLUT/glut.h
+-
+fstream
+-
+sstream
+-
+vector
+-
+cmath
+-
+cfloat
+-
+
